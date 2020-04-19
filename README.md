@@ -1,6 +1,6 @@
 # auto-branch-pr
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Auto create Pull Request to a base branch when a destination changes
+> A GitHub App built with [Probot](https://github.com/probot/probot) that Auto creates Pull Request to a base branch when a destination changes
 
 ## Setup
 
