@@ -1,4 +1,4 @@
-# auto-branch-pr
+# auto-branch-rebase
 
 ![](bot.gif)
 
