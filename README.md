@@ -2,7 +2,7 @@
 
 ![](bot.gif)
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Auto creates Pull Request to a base branch when a destination changes
+> A GitHub App built with [Probot](https://github.com/probot/probot) that updates a Pull Request with a base branch when the destination changes
 
 ## Setup
 
